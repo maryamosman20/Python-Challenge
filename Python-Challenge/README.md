@@ -1,6 +1,6 @@
 # Unit 3 Homework -challenge: Python
 
-This challenge consists of 2 parts analysis
+This challenge consists of 2 parts analysis.
 (1)	PyBank
 * The total number of months included in the dataset
 
